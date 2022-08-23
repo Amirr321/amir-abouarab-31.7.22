@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Amir-AbouArab-31-7-22/static/css/main.eb9a99b0.css",
-    "main.js": "/Amir-AbouArab-31-7-22/static/js/main.84347401.js",
-    "static/js/787.13d76ca7.chunk.js": "/Amir-AbouArab-31-7-22/static/js/787.13d76ca7.chunk.js",
-    "index.html": "/Amir-AbouArab-31-7-22/index.html",
-    "main.eb9a99b0.css.map": "/Amir-AbouArab-31-7-22/static/css/main.eb9a99b0.css.map",
-    "main.84347401.js.map": "/Amir-AbouArab-31-7-22/static/js/main.84347401.js.map",
-    "787.13d76ca7.chunk.js.map": "/Amir-AbouArab-31-7-22/static/js/787.13d76ca7.chunk.js.map"
+    "main.css": "/amir-abouarab-31.7.22/static/css/main.eb9a99b0.css",
+    "main.js": "/amir-abouarab-31.7.22/static/js/main.37c29a00.js",
+    "static/js/787.13d76ca7.chunk.js": "/amir-abouarab-31.7.22/static/js/787.13d76ca7.chunk.js",
+    "index.html": "/amir-abouarab-31.7.22/index.html",
+    "main.eb9a99b0.css.map": "/amir-abouarab-31.7.22/static/css/main.eb9a99b0.css.map",
+    "main.37c29a00.js.map": "/amir-abouarab-31.7.22/static/js/main.37c29a00.js.map",
+    "787.13d76ca7.chunk.js.map": "/amir-abouarab-31.7.22/static/js/787.13d76ca7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eb9a99b0.css",
-    "static/js/main.84347401.js"
+    "static/js/main.37c29a00.js"
   ]
 }
